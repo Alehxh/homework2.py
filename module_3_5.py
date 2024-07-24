@@ -8,6 +8,5 @@ def get_multiplied_digits(number):
         return first
 
 
-# Example usage:
 result = get_multiplied_digits(40203)
-print(result)  # Output: 24
+print(result)  
